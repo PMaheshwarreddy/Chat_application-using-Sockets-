@@ -1,4 +1,6 @@
 🗨️ Java Chat Application (Client-Server Model)
+
+
 Welcome to the Java Chat Application! This is a simple real-time chat application built using Java Swing for the user interface and Sockets (TCP) for communication between a client and a server.
 
 📌 Features
@@ -29,23 +31,15 @@ I/O Streams (DataInputStream, DataOutputStream) – For sending and receiving me
 git clone https://github.com/your-username/Java-Chat-App.git
 cd Java-Chat-App
 2️⃣ Compile & Run the Server
-bash
-Copy
-Edit
 javac Server.java
 java chatting.application.Server
 3️⃣ Compile & Run the Client
-bash
-Copy
-Edit
 javac Client.java
 java chatting.application.Client
-(Ensure the server is running before launching the client.)
+
 
 📜 Project Structure
-bash
-Copy
-Edit
+
 📂 Java-Chat-App
  ┣ 📂 icons             # Contains images for UI icons
  ┣ 📜 Client.java       # Client-side application
@@ -62,14 +56,7 @@ The messages are formatted into chat bubbles with timestamps.
 
 The application follows a single-threaded client-server model but can be extended for multiple clients.
 
-🔥 Future Improvements
- Multi-client support (using threading)
 
- Database integration for message storage
-
- Emoji support in chat
-
- File-sharing feature
 
 🤝 Contribution
 Feel free to fork this repository and submit pull requests. If you have any ideas for improvements, create an issue!
