@@ -5,25 +5,17 @@ Welcome to the Java Chat Application! This is a simple real-time chat applicatio
 
 📌 Features
 ✅ Real-time Messaging between a client and a server
+
+
 ✅ Graphical User Interface (GUI) using Java Swing
+
 ✅ Multi-threaded Server to handle multiple clients (extendable)
+
 ✅ Chat Bubbles with Timestamps for better conversation experience
+
 ✅ Attractive UI Design inspired by modern chat apps
+
 ✅ Exit Button Functionality to close the chat application
-
-🚀 Tech Stack
-🔹 Programming Language
-Java (JDK 8 or later)
-
-🔹 Libraries & Tools
-Swing (JFrame, JPanel, JTextField, JLabel, JButton) – For GUI
-
-AWT (Abstract Window Toolkit) – For UI Components
-
-Sockets (TCP/IP) – For Client-Server Communication
-
-I/O Streams (DataInputStream, DataOutputStream) – For sending and receiving messages
-
 
 
 🛠️ How to Run
@@ -42,8 +34,11 @@ java chatting.application.Client
 
 📂 Java-Chat-App
  ┣ 📂 icons             # Contains images for UI icons
+ 
  ┣ 📜 Client.java       # Client-side application
+ 
  ┣ 📜 Server.java       # Server-side application
+ 
  ┣ 📜 README.md         # Project documentation
 
  
