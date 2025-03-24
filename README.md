@@ -5,6 +5,7 @@ Welcome to the Java Chat Application! This is a simple real-time chat
 application built using Java Swing for the user interface and Sockets (TCP) for communication between a client and a server.
 
 📌 Features
+
 ✅ Real-time Messaging between a client and a server
 
 
