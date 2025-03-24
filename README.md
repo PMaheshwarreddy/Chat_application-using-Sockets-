@@ -1,7 +1,8 @@
 🗨️ Java Chat Application (Client-Server Model)
 
 
-Welcome to the Java Chat Application! This is a simple real-time chat application built using Java Swing for the user interface and Sockets (TCP) for communication between a client and a server.
+Welcome to the Java Chat Application! This is a simple real-time chat
+application built using Java Swing for the user interface and Sockets (TCP) for communication between a client and a server.
 
 📌 Features
 ✅ Real-time Messaging between a client and a server
@@ -19,20 +20,31 @@ Welcome to the Java Chat Application! This is a simple real-time chat applicatio
 
 
 🛠️ How to Run
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/Java-Chat-App.git
+
 cd Java-Chat-App
+
 2️⃣ Compile & Run the Server
+
 javac Server.java
+
 java chatting.application.Server
+
 3️⃣ Compile & Run the Client
+
 javac Client.java
+
 java chatting.application.Client
+
 
 
 📜 Project Structure
 
 📂 Java-Chat-App
+
  ┣ 📂 icons             # Contains images for UI icons
  
  ┣ 📜 Client.java       # Client-side application
@@ -43,6 +55,7 @@ java chatting.application.Client
 
  
 📌 How It Works
+
 The server listens on port 6001 and waits for a client to connect.
 
 The client establishes a connection with the server using Sockets.
