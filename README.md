@@ -45,6 +45,8 @@ java chatting.application.Client
  ┣ 📜 Client.java       # Client-side application
  ┣ 📜 Server.java       # Server-side application
  ┣ 📜 README.md         # Project documentation
+
+ 
 📌 How It Works
 The server listens on port 6001 and waits for a client to connect.
 
