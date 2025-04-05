@@ -66,8 +66,6 @@ The messages are formatted into chat bubbles with timestamps.
 
 The application follows a single-threaded client-server model but can be extended for multiple clients.
 
-
-
 🤝 Contribution
 Feel free to fork this repository and submit pull requests. If you have any ideas for improvements, create an issue!
 
