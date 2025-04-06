@@ -5,6 +5,7 @@ application built using Java Swing for the user interface and Sockets (TCP) for 
 
 📌 Features
 
+
 ✅ Real-time Messaging between a client and a server
 
 ✅ Graphical User Interface (GUI) using Java Swing
