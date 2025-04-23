@@ -4,7 +4,6 @@
 
 
 
-
 Welcome to the Java Chat Application! This is a simple real
 
 -time chat
